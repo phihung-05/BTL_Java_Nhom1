@@ -1,0 +1,21 @@
+210002521;Pham Quang Huy;CNTT01;4.0;10.0;7.0;Passed
+210004123;Ngo Hai Yen;KTPM01;9.0;2.0;5.5;Passed
+220001111;Nguyen Duc Luong;HTTT02;7.4;5.0;6.2;Passed
+220001123;Bui Tan Truong;KHMT02;5.0;3.0;4.0;Failed
+220001151;Hoang Nguyen Bao;CNTT01;10.0;10.0;10.0;Passed
+220001156;Hoang Nguyen Bao;KHMT01;10.0;10.0;10.0;Passed
+220001185;Doan Van Dung;KHMT02;3.0;4.0;3.5;Failed
+220001189;Nguyen Thi Ly;CNTT01;7.5;5.0;6.25;Passed
+220001212;Nguyen Thi Huong;CNTT02;6.0;4.0;5.0;Passed
+220001223;Do Cao Long;KTPM01;8.0;9.0;8.5;Passed
+220001243;Dien Quan;HTTT02;6.0;8.0;7.0;Passed
+220001245;Nguyen Van Tam;KTPM01;2.0;3.0;2.5;Failed
+220001291;Nguyen Quang Hung;CNTT01;10.0;10.0;10.0;Passed
+220001365;Son Tung MTP;CNTT02;4.0;2.0;3.0;Failed
+220001421;Pham Nhat Duy;KHMT02;7.0;6.0;6.5;Passed
+220001521;Pham Tuan Pheu;HTTT01;7.0;8.0;7.5;Passed
+220001534;Nguyễn Thị Thu;KHMT01;7.0;8.0;7.5;Passed
+220001672;Pham Nhat Vuong;HTTT01;6.0;8.0;7.0;Passed
+220001745;Pham Thi Linh;KTPM01;7.0;8.0;7.5;Passed
+220001867;Quang Hai;KHMT01;4.0;9.0;6.5;Passed
+220003121;Nguyen Ngoc Lien;CNTT02;7.8;8.8;8.3;Passed

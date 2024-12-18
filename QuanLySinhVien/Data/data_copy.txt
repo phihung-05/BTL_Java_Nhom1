@@ -1,0 +1,23 @@
+220003123;abc;CNTT1;8.0;9.0;8.5;Passed
+220003121;Nguyen Ngoc Lien;KHTNCN;7.2;8.8;8.0;Passed
+2200018a67;Quang Hai;TDTT20;4.0;9.0;6.5;Passed
+220001745;Pham Thi Linh;TUD;7.0;8.0;7.5;Passed
+220001672;Pham Nhat Vuong;TDTT20;6.0;8.0;7.0;Passed
+220001534;Nguyễn Thị Thu;TUD;7.0;8.0;7.5;Passed
+220001521;Pham Tuan Pheu;KHTNCN;7.0;8.0;7.5;Passed
+220001421;Pham Nhat Duy;KHTNCN;7.0;6.0;6.5;Passed
+220001365;Son Tung MTP;NTCH6A;4.0;2.0;3.0;Failed
+220001291;Nguyen Quang Hung;VHDL7B;10.0;10.0;10.0;Passed
+220001245;Nguyen Van Tam;TUD;2.0;3.0;2.5;Failed
+220001243;Dien Quan;VHDL7B;6.0;8.0;7.0;Passed
+220001223;Do Cao Long;KHTNCN;8.0;9.0;8.5;Passed
+220001212;Nguyen Thi Huong;KHTNCN;6.0;4.0;5.0;Passed
+220001189;Nguyen Thi Ly;NTCH6A;7.5;5.0;6.25;Passed
+220001185;Doan Van Dung;NTCH6A;3.0;4.0;3.5;Failed
+220001156;Hoang Nguyen Bao;KHTNCN;10.0;10.0;10.0;Passed
+220001151;Hoang Nguyen Bao;KHTNCN;10.0;10.0;10.0;Passed
+220001123;Bui Tan Truong;TDTT20;5.0;3.0;4.0;Failed
+220001111;Nguyen Duc Luong;KHTNCN;7.4;5.0;6.2;Passed
+210004123;Ngo Hai Yen;TUD;9.0;2.0;5.5;Passed
+210002521;Pham Quang Huy;TDTT20;4.0;10.0;7.0;Passed
+220001867;Quang Hai;HTTT3;4.0;9.0;6.5;Passed
